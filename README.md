@@ -1,5 +1,9 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! ahmed sadiwy </h1>
+<h3 align="left">A passionate and motivated Computer Science and Artificial Intelligence student with a strong interest
+in Machine Learning, Computer Vision, Natural Language Processing (NLP), and Speech Processing.
+Proficient in Python, C++, and data-driven problem solving, with hands-on experience in real-time
+computer vision systems and edge deployment. Enthusiastic about AI research, innovative solutions,
+and continuously enhancing practical experience through projects and industry-oriented programs</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
@@ -26,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: &nbsp;I'm currently working at **FREE**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
